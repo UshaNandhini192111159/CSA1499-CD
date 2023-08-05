@@ -22,3 +22,11 @@ break;
 if(flag==1)
 printf("\n Valid identifier");
 }
+
+OUTPUT:
+Enter an identifier:abc123
+
+ Valid identifier
+--------------------------------
+Process exited after 12.13 seconds with return value 18
+Press any key to continue . . .
